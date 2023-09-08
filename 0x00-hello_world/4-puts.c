@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: A program that prints exactly "Programming is like building a multilingual puzzle
+ * Description: A C program that prints with puts function
  *
  * Return: Always 0 (Success)
  */
