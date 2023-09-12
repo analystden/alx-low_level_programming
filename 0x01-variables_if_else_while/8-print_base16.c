@@ -10,7 +10,8 @@
 */
 int main(void)
 {
-	char hexDigits[i] = "0123456789abcdef";
+	int i = 0;
+	char hexDigits[] = "0123456789abcdef";
 
 	for (i = 0; i < 16; i++)
 	{
